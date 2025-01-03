@@ -6,7 +6,7 @@
       "creator": "GREENo0o",
       "verifier": "GREENo0o",
       "HighestRanking": 1,
-      "victor": "None"
+      "Victor": "None"
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
       "creator": "WhaleDP",
       "verifier": "WhaleDP",
       "HighestRanking": 1,
-      "victor": "ItzZoA"
+      "Victor": "ItzZoA"
     },
     {
       "rank": 3,
@@ -22,7 +22,7 @@
       "creator": "WhaleDP",
       "verifier": "WhaleDP",
       "HighestRanking": 3,
-      "victor": "None"
+      "Victor": "None"
     }
   ]
 }
